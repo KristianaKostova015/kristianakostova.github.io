@@ -38,7 +38,7 @@ title: Моето CV
 # 📞 Контакти
 
 - 📧 Email: kostova.kriska@gmail.com    
-- 💻 GitHub: [github.com/yourusername](https://github.com/KristianaKostova015)
+- 💻 GitHub: [github.com/KristianaKostova015](https://github.com/KristianaKostova015)
 
 ---
 
