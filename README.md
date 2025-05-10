@@ -19,7 +19,7 @@
 
 CV страницата е достъпна онлайн чрез **GitHub Pages**:
 
-🔗 [Отвори CV страницата] (https://kristianakostova015.github.io/kristianakostova.github.io/))
+🔗 [Отвори CV страницата] (https://kristianakostova015.github.io/kristianakostova.github.io/)
 
 ---
 
