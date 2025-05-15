@@ -2,9 +2,8 @@
 ---
 title: Моето CV
 layout: default
-theme: minima
+theme: minimal
 ---
-
 <p align="center">
 <img src="486122562_9297691600351411_192359321561508743_n.jpg" alt="Снимка" width="200" />
 </p>
