@@ -3,7 +3,7 @@ title: Моето CV
 ---
 
 <p align="center">
-  <img src="1bf4fb7-5b13-44a8-bf23-892fec63e3ed.jpg" alt="Снимка на Кристиана Костова" width="180" />
+  <img src="01bf4fb7-5b13-44a8-bf23-892fec63e3ed.jpg" alt="Снимка на Кристиана Костова" width="180" />
 </p>
 
 ## 👩‍💻 Професионална биография
