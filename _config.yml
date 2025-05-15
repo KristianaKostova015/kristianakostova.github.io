@@ -1,7 +1,4 @@
 title: "Моето CV"
 description: "Персонално CV на Кристиана Костова"
-theme: cayman
-
-# Допълнителни настройки:
+theme: jekyll-theme-hacker
 markdown: kramdown
-show_downloads: false
