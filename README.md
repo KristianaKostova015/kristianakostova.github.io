@@ -16,12 +16,11 @@
 
 ---
 
-## 🌍 Достъп до CV страницата
+# 🌍 Достъп до CV страницата
 
 CV-то е достъпно онлайн чрез **GitHub Pages**:
 
-🔗 [Отвори CV страницата]
-(https://github.com/KristianaKostova015/kristianakostova.github.io/)
+🔗 [Отвори CV страницата](https://KristianaKostova015/kristianakostova.github.io)
 
 ---
 
