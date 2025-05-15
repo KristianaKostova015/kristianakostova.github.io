@@ -33,9 +33,9 @@ title: Моето CV
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project1) | Онлайн магазин с продукти и количка | ASP.NET Core, EF Core |
-| [Project1](https://github.com/kristianakostova015/project2) | Система за задачи и потребители | .NET MVC, SQLite |
-| [Project1](https://github.com/kristianakostova015/project3) | Прогноза за времето по град | .NET Blazor |
-| [Project1](https://github.com/kristianakostova015/project4) | Платформа за блог публикации | ASP.NET Core Razor Pages |
+| [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project2) | Система за задачи и потребители | .NET MVC, SQLite |
+| [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project3) | Прогноза за времето по град | .NET Blazor |
+| [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project4) | Платформа за блог публикации | ASP.NET Core Razor Pages |
 
 ---
 
