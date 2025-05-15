@@ -33,9 +33,9 @@ title: Моето CV
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project1) | Програма за статистика на числа | C# (.NET) |
-| [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project2) | Файлова компресия с GZip | C# (.NET) |
-| [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project3) | myTuple| C# (.NET) |
-| [Project1](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project4) | Валутен Конвертор | C# (.NET) |
+| [Project2](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project2) | Файлова компресия с GZip | C# (.NET) |
+| [Project3](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project3) | myTuple| C# (.NET) |
+| [Project4](https://github.com/KristianaKostova015/kristianakostova.github.io/tree/main/Project4) | Валутен Конвертор | C# (.NET) |
 
 ---
 
