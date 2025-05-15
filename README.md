@@ -1,4 +1,3 @@
-
 ---
 title: Моето CV
 layout: default
@@ -50,3 +49,4 @@ theme: minimal
 ---
 
 > Страницата е изградена чрез GitHub Pages & Markdown.
+
