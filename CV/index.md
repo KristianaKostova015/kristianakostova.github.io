@@ -1,4 +1,3 @@
-
 ---
 title: Моето CV
 layout: default
