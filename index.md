@@ -48,4 +48,4 @@ title: Моето CV
 
 ---
 
-> Страницата е изградена с GitHub Pages и темата **Cayman**.
+> Страницата е изградена с GitHub Pages и темата **hacker**.
