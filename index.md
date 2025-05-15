@@ -3,9 +3,9 @@ title: Моето CV
 layout: default
 theme: minima
 ---
-
+![Снимка](486122562_9297691600351411_192359321561508743_n.jpg)
 # 👨‍💻 Професионална биография
-![Изображение .Net]([https://jobspace.bg/company-files/11/177905061520210611114756.png](https://scontent-sof1-2.xx.fbcdn.net/v/t39.30808-6/486122562_9297691600351411_192359321561508743_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nBp7L2PClJ0Q7kNvwEnpYv_&_nc_oc=Adl2zfRnIAPv9NHgt9P8Z9ofArHqPAulKu9iyfy2-ilE24FuWl7oK5U-Urazm4HIU_M&_nc_zt=23&_nc_ht=scontent-sof1-2.xx&_nc_gid=Jw-AJz_Q8qltMgYIuK8-Ew&oh=00_AfI4PvYhu0TkldrltmS5sbpVgHF94G-JX550bRUzGgfJBg&oe=682BBF64))
+
 Здравейте!  
 Казвам се Кристиана Костова и съм студент в Югозападен университет "Неофит Рилски",  
 Природо-математически факултет, Катедра Информатика,  
