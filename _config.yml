@@ -1,4 +1,7 @@
-title: Моето CV
-author: Kristiana Kostova
-description: Онлайн CV, изградено с GitHub Pages
+title: "Моето CV"
+description: "Персонално CV на Кристиана Костова"
 theme: cayman
+
+# Допълнителни настройки:
+markdown: kramdown
+show_downloads: false
