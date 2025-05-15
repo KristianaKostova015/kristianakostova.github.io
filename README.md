@@ -23,7 +23,7 @@
 
 ---
 
-## 📞 Контакти
+## 📬 Контакти
 
 - 📧 Email: kostova.kriska@gmail.com  
 - 💻 GitHub: [github.com/KristianaKostova015](https://github.com/KristianaKostova015)
