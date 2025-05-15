@@ -1,7 +1,8 @@
 ---
 title: Моето CV
+author: Kristiana Kostova
 layout: default
-theme: minima
+theme: hacker
 ---
 
 <p align="center">
