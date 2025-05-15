@@ -20,7 +20,7 @@
 
 CV-то е достъпно онлайн чрез **GitHub Pages**:
 
-🔗 [Отвори CV страницата](https://KristianaKostova015.github.io/)
+🔗 [Отвори CV страницата](https://kristianakostova.github.io/)
 
 ---
 
