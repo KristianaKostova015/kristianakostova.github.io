@@ -1,7 +1,6 @@
 ---
 title: Моето CV
 author: Kristiana Kostova
-layout: default
 theme: hacker
 ---
 
